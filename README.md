@@ -5,6 +5,8 @@ CeBIT 2018 started yesterday with a new format aimed at attracting developers, y
 
 Today, Paul St. John [(GitHub)](www.github.com), Eric Bowman [(Zalando)](www.zalando.de) and I will be speaking at d!talk about “The Future of Software at Scale: Digital Transformation in the Enterprise” at 14:00.
 
+![img_0803](https://user-images.githubusercontent.com/31735850/41291620-77d9d468-6e50-11e8-9b25-88fc88a65080.jpeg)
+
 That’s a big topic to cover in 30 minutes and we will mainly speak about GitHub’s impact on the global software community, and especially on enterprises.
 
 GitHub is a platform for integrating people and ideas, building software, automating deployment, and delivering innovations to customer. Reflecting on the past two year’s work with Deutsche Boerse, where we rolled out GitHub Enterprise in record time, there are three simple ways GitHub impacts any organisation. 
