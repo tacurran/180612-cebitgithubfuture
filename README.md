@@ -32,9 +32,8 @@ Thomas Aidan Curran
 Hannover, Germany
 June 11, 2018
 
+[1] (https://www.cebit.de/event/the-future-of-software-at-scale-digital-transformation-in-the-enterprise/PAN/88595)
 
-[1] https://www.cebit.de/event/the-future-of-software-at-scale-digital-transformation-in-the-enterprise/PAN/88595
+[2] (https://jfcurran.github.io/GitHub-Constellation-Munich/index.html)
 
-[2] https://jfcurran.github.io/GitHub-Constellation-Munich/index.html
-
-[3] https://developer.github.com/webhooks/
+[3] (https://developer.github.com/webhooks/)
