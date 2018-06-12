@@ -29,5 +29,7 @@ In order to automate software releases, you need excellent data about all steps.
 The future of software is hard to predict especially in 30 minutes. By looking at the Deutsche Boerse’s experience over the past two years, using the GitHub platform, including the core products GitHub.com and GitHub Enterprise, plus the growing ecosystem of partner products was core to the overall change the company made in software production. The three lessons learned, or simple ways GitHub impacts any organisation, search, talent discovery and collaboration, and speed will apply to many other organisations seeking to be innovative and responsive to customer and market demands.
 
 Thomas Aidan Curran 
+
 June 11, 2018
+
 [CeBIT 2018](https://www.cebit.de/event/the-future-of-software-at-scale-digital-transformation-in-the-enterprise/PAN/88595), Hannover, Germany
