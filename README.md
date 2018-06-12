@@ -3,7 +3,7 @@
 
 CeBIT 2018 started yesterday with a new format aimed at attracting developers, young and old, from around the world. There are many speakers invited to talk about business change and the impact of software has on business and society.  
 
-Today, Paul St. John [GitHub](www.github.com), Eric Bowman [Zalando](www.zalando.de) and I will be speaking at d!talkabout “The Future of Software at Scale: Digital Transformation in the Enterprise” at 14:00.
+Today, Paul St. John [(GitHub)](www.github.com), Eric Bowman [(Zalando)](www.zalando.de) and I will be speaking at d!talk about “The Future of Software at Scale: Digital Transformation in the Enterprise” at 14:00.
 
 That’s a big topic to cover in 30 minutes and we will mainly speak about GitHub’s impact on the global software community, and especially on enterprises.
 
