@@ -35,5 +35,3 @@ Thomas Aidan Curran
 June 11, 2018
 
 [CeBIT 2018](https://www.cebit.de/event/the-future-of-software-at-scale-digital-transformation-in-the-enterprise/PAN/88595), Hannover, Germany
-
-Jonas
